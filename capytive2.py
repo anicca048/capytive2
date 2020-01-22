@@ -230,6 +230,7 @@ def gen_email():
         user_email += str(random.randint(1,999) % 999)
 
     # Generate random email domain after username.
+    user_email += "@"
     user_email += get_file_line(domains, get_file_size(domains))
 
     return user_email

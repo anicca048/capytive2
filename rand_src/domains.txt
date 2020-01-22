@@ -1,8 +1,7 @@
-@yahoo.com
-@icloud.com
-@my.tccd.edu
-@aol.com
-@outlook.com
-@tccd.edu
-@gmail.com
-
+yahoo.com
+icloud.com
+my.tccd.edu
+aol.com
+outlook.com
+tccd.edu
+gmail.com
