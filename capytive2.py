@@ -84,7 +84,7 @@ def main(user_email, user_agent, user_wait):
                          'Submit' : "Accept"
                         }
 
-    print("\ncapytive2\n")
+    print("\ncapytive2")
 
     print("[+] sending initial request...")
 
