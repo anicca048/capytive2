@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""
+'''
  Copyright (c) 2019 anicca048
  
  Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -19,12 +19,12 @@
  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  SOFTWARE.
-"""
-"""
+'''
+'''
  Warning:  A large amount of data is generated in a way that an identity change
            of the captive portal will not brake anything, but any major change
            to the portal itself will probably brake everything.
-"""
+'''
 
 import argparse
 import requests

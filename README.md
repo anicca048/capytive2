@@ -1,2 +1,3 @@
 # Capytive2
-Authentication script for specific unspecified captive portals
+Automatic authentication script for specific unspecified captive portal
+system(s).
